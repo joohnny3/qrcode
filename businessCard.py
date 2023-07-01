@@ -15,7 +15,7 @@ qr = qrcode.QRCode(
 qr.add_data('''
 BEGIN:VCARD
 FN:CHANG Yu-cheng
-TEL;CELL:0929312288
+TEL;CELL:0929312287
 EMAIL:johnny31258@gmail.com
 URL:https://github.com/joohnny3
 END:VCARD
